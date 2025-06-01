@@ -40,14 +40,18 @@ python3 gui_sphincs.py
 ```
 #### Workflow
 1. Select a "*SPHINCS+ Variant*" from the dropdown menu.
+
 ![Main GUI](/assets/screenshot_main.png)
 2. Click "*Generate Keypair*" to create a new keypair by using a random seed.
+
 ![Key Generated](/assets/keygen_window.png)
 3. Click "*Upload Message*" and select a plaintext `.txt` file to be signed.
+
 ![Sample of Message](/assets/sample_message.txt)
 4. Click "*Sign Message*" to digitally sign the message.
 5. Click "*Save Signature*" to save the signature to a `.sig` file. 
 6. Click "*Verify Signature*" to validate the uploaded message and signature.
+
 ![Verification Window](/assets/verification_window.png)
 7. Click "*Reset*" to start over and choose another variant.
 
