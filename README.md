@@ -45,8 +45,6 @@ python3 gui_sphincs.py
 
 2. Click "*Generate Keypair*" to create a new keypair by using a random seed.
 
-![Key Generated](/assets/keygen_window.png)
-
 3. Click "*Upload Message*" and select a plaintext `.txt` file to be signed.
 
 ![Sample of Message](/assets/sample_message.txt)
