@@ -44,7 +44,7 @@ python3 gui_sphincs.py
 ![Main GUI](/assets/screenshot_main.png)
 
 2. Click "*Generate Keypair*" to create a new keypair by using a random seed.
-3. Click "*Upload Message*" and select a plaintext `.txt` file to be signed.[Sample of Message](/assets/sample_message.txt)
+3. Click "*Upload Message*" and select a plaintext `.txt` file to be signed [Sample of Message](/assets/sample_message.txt).
 4. Click "*Sign Message*" to digitally sign the message.
 5. Click "*Save Signature*" to save the signature to a `.sig` file. 
 6. Click "*Verify Signature*" to validate the uploaded message and signature.
