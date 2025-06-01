@@ -1,5 +1,5 @@
 # sphincsplus GUI Tool
-This is a simple graphical user interface (GUI) for the [PySPX](https://github.com/sphincs/pyspx) SPHINCS+ (*the post-quantum digital signature scheme*) implementation using Python `pyspx` and `tkinter`.
+This is a simple graphical user interface (GUI) for the [PySPX](https://github.com/sphincs/pyspx) [SPHINCS+](https://github.com/sphincs/sphincsplus) (*the post-quantum digital signature scheme*) implementation using Python `pyspx` and `tkinter`.
 
 ## Features
 * Generate SPHINCS+ keypair using selectable variants (e.g. `shake_128f`, `sha2_192s`, etc.)
